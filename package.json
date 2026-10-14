@@ -1,0 +1,8 @@
+{
+  "name": "word-knights-online",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Two player live fantasy typing duel with offline AI mode",
+  "scripts": {"start": "node server.js", "test": "node --test tests/server.test.js"},
+  "engines": {"node": ">=20"}
+}
